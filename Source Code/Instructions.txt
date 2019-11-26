@@ -1,0 +1,8 @@
+This is not a complete program , it is just a python module and it requires no installation.
+You can Use this Python Program like any other Simple Python module.You can import this module
+in your program by adding this line at the beginning of  your program. 
+
+import pyzen
+
+NOTE: This software is for Linux only .
+
